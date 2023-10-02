@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Stefano Suarez
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador
-* Sitio web: [Tu sitio web]
+* Sitio web: 
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
